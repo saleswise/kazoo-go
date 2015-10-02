@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/saleswise/go-zookeeper/zk"
 )
 
 var (

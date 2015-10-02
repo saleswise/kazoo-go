@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/saleswise/go-zookeeper/zk"
 )
 
 // Topic interacts with Kafka's topic metadata in Zookeeper.

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	//	"github.com/samuel/go-zookeeper/zk"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/saleswise/go-zookeeper/zk"
 	"reflect"
 )
 
